@@ -6,6 +6,10 @@ __pycache__/
 # C extensions
 *.so
 
+# List of folders to skip
+Output/
+stock_price_data_files/
+
 # Distribution / packaging
 .Python
 build/
