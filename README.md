@@ -17,7 +17,7 @@ To install Python this link (https://www.dataquest.io/blog/installing-python-on-
     "python3 app.py"
 
 
-# Flow of the script:
+# Execution flow of this script:
 1. Execute the script
 2. System will ask for which market user wants to select (among the folders we have inside 'stock_price_data_files')
 3. Once market is selected, then system will ask for which file to proceed (based on no of files are there inside, input can be given)
