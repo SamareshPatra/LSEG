@@ -9,7 +9,7 @@ This script contains input from user as 1 or 2 or no of file wants to process fr
 To install Python this link (https://www.dataquest.io/blog/installing-python-on-mac/) can be followed or can download from here (https://www.python.org/downloads/) for installation.
 2. Once above setup is completed and "python3 --version" is returing result, we are good to follow next step.
 3. Now we need to bring the code in local - follow below commands (if github setup is there in sysyem) :
-   1. git clone git@github.com:SamareshPatra/LSEG.git
+   1. "git clone git@github.com:SamareshPatra/LSEG.git"
    2. Now code has come to your current directory
    3. We need input now before running teh script. "stock_price_data_files" folder you need to place in same directory after unzipping.
    4. Output folder will be created once the code runs first time. We are keeping output in different folder to keep the output files organised.
