@@ -19,8 +19,9 @@ To install Python this link (https://www.dataquest.io/blog/installing-python-on-
 
 2. Option 2:
    - If docker is installed in your system, then we have created one docker image here (https://hub.docker.com/r/sampat17/findoutliers/tags).
-   - Please run the command - "docker pull sampat17/findoutliers:v1.0" to pull the image in local.
-   - We can run this docker image to execute the script.
+   - Please run the command - "docker pull sampat17/findoutliers:v1.0" or "docker pull sampat17/findoutliers" to pull the image in local. 
+   - We can run this docker image to execute the script. To run the image - please use below command as user needs to interact by providing inputs from terminal. If we do not use '-it' we will end up by 'EOFError: EOF when reading a line error'.
+"docker run -it sampat17/findoutliers"
 
 
 # Execution flow of this script:
