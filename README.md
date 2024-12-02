@@ -12,6 +12,7 @@ To install Python this link (https://www.dataquest.io/blog/installing-python-on-
    1. "git clone git@github.com:SamareshPatra/LSEG.git"
    2. Now code has come to your current directory
    3. We need input now before running teh script. "stock_price_data_files" folder you need to place in same directory after unzipping.
+(we have skip this step as provided data were not confidencial, so we have added this folder in git code)
    4. Output folder will be created once the code runs first time. We are keeping output in different folder to keep the output files organised.
 4. Now we are good with the setup. We just need to run below command to run the script - 
     "python3 app.py"
